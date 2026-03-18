@@ -1,10 +1,10 @@
 package Main;
 
-import TDA.PilaTDA;
+import TDA.PilaEstaticaTDA;
 
-public class MainPila {
+public class MainPilaEstatica {
     public static void main(String[] args) {
-        PilaTDA pila = new PilaTDA(5);
+        PilaEstaticaTDA pila = new PilaEstaticaTDA(5);
 
         pila.push(24);
         pila.push(56);

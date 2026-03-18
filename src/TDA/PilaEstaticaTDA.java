@@ -1,11 +1,11 @@
 package TDA;
 
-public class PilaTDA {
+public class PilaEstaticaTDA {
     private int[] datos;
     private int tope;
     private int capacidad;
 
-    public PilaTDA(int capacidad) {
+    public PilaEstaticaTDA(int capacidad) {
         this.capacidad = capacidad;
         this.datos = new int[capacidad];
         this.tope = -1;
