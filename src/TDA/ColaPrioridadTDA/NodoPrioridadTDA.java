@@ -1,7 +1,10 @@
 package TDA.ColaPrioridadTDA;
 
-//Crea una clase nodoPrioridad donde creamos objetos que tengan su atributo dato y prioridad
-public class NodoPrioridadTDA {
+/**
+*  Estrategia de Cola con Prioridad que crea una clase nodoPrioridad donde creamos objetos que tengan su atributo dato y prioridad
+ */
+
+ public class NodoPrioridadTDA {
 
     public class NodoPrioridad {
         int dato;

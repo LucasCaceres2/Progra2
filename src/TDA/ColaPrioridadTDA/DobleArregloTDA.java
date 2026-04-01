@@ -1,6 +1,8 @@
 package TDA.ColaPrioridadTDA;
 
-//Dos arreglos, uno con los elementos y otro con las prioridades
+/**
+ *   Estrategia de Cola con prioridad hecha con dos arreglos
+ */
 public class DobleArregloTDA {
     private int[] elementos;
     private int[] prioridades;

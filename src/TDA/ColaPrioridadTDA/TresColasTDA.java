@@ -1,6 +1,11 @@
 package TDA.ColaPrioridadTDA;
 
-
+/**
+*   Estrategia de Cola con Prioridad donde hay un arreglo por cada prioridad definida.
+ *   3 = alta.
+ *   2 = media.
+ *   1 = baja.
+ */
 public class TresColasTDA {
     private ColaTDA colaAlta;
     private ColaTDA colaMedia;
